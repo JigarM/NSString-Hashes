@@ -1,7 +1,7 @@
 //
 //  NSString+Hashes.m
 //
-//  Created by Klaus-Peter Dudas on 26/07/2011.
+//  Created by Jigar Maheshwari on 23/05/2012.
 //  Copyright: Do whatever you want with this, i.e. Public Domain
 //
 
