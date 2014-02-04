@@ -1,7 +1,8 @@
 NSString-Hashes
 ===============
 
-
+sha1 Sample : 
+-------------------
 
      -(NSString*) sha1:(NSString*)input{
           const char *cstr = [input cStringUsingEncoding:NSUTF8StringEncoding];
